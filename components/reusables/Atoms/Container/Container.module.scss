@@ -1,0 +1,15 @@
+.white {
+  background: linear-gradient(180deg, #ffffff 0%, #f7f7f7 100%);
+  border: 1px solid #e6e6e6;
+  box-sizing: border-box;
+  border-radius: 16px;
+  padding: 0px 12px;
+}
+.purple {
+  background: linear-gradient(180deg, #4527b3 0%, #331c85 100%),
+    linear-gradient(180deg, #ffffff 0%, #f7f7f7 100%);
+  border: 1px solid #e6e6e6;
+  box-sizing: border-box;
+  border-radius: 16px;
+  padding: 0px 12px;
+}
