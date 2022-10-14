@@ -184,7 +184,7 @@ export const Footer = ({}: FooterProps): JSX.Element => {
             className={styles.logo}
           />
           <Typography variant="body" color="white" className={styles.text}>
-               Bringing the world’s largest asset class via blockchain.
+               Bringing the world's most prestigious asset class on chain.
           </Typography>
           {/* <Typography variant="body" color="white" className={styles.text}>
             Fine Arts.
