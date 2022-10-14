@@ -59,17 +59,8 @@ const Video = () => {
 
       </div>
       <div className={styles.whitelist}>
-      <video
-      style={{width:"100%"}}
-        ref={videoRef2}
-        // controls={true}
-        preload={"auto"}
-        type={"video/mp4"}
-        // style={{background:"black"}}
-        poster="/Publiced/poster.png"
-        
-      >
-        <source src="/Publiced/video.mp4"  />
+      <video ref={videoRef} muted={"muted"} loop={"muted"} autoplay={"autoplay"} style={{width:"100%"}} controls>
+        <source src="/Publiced/video.mp4" type="video/mp4" />
       </video>
             <div style={{position:"relative"}}>
                     <div className={styles.position}>

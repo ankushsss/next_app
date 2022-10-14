@@ -21,6 +21,7 @@ const Whitelist = ({ setIsOpen, isOpen, referralCode }) => {
         type={"video/mp4"}
         // style={{background:"black"}}
         poster="/Publiced/vp3.png"
+        controls
       >
         <source src="https://artfi.s3.ap-south-1.amazonaws.com/Artfi+Blue+Chip+NFT+With+Closer.mp4" />
       </video>

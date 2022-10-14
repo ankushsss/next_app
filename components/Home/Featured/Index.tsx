@@ -117,6 +117,38 @@ return(
 
       {/* </div> */}
       </div>
+            <div className={styles.mobile}>
+                    <div style={{display:"flex",gap:"40px",justifyContent:"center",alignItems:"center",flexDirection:"column",marginTop:"40px"}}>
+                        <div style={{width:"300px",height:"fit-content" }}><a href="" target="_blank"><img  src="/Publiced/CNBC.svg"/></a></div>
+                        <div style={{width:"300px",height:"fit-content" }}><a href="" target="_blank"><img src="/Publiced/Arabian Business.svg"/></a></div>
+                    </div>
+                    <div style={{display:"flex",gap:"40px",justifyContent:"center",alignItems:"center",flexDirection:"column",marginTop:"40px"}}>
+                        <div style={{width:"300px",height:"fit-content" }}><a href="" target="_blank"><img width="50%" src="/Publiced/Times of India.svg"/></a></div>
+                        <div style={{width:"300px",height:"fit-content" }}><a href="" target="_blank"><img width="50%" src="/Publiced/Your Story.svg"/></a></div>
+                    </div>
+            </div>
+            <div className={styles.mobile}>
+      
+                    <div style={{display:"flex",gap:"40px",justifyContent:"center",alignItems:"center",flexDirection:"column",marginTop:"40px"}}>
+                        <div style={{width:"300px",height:"fit-content" }}><a href="" target="_blank"><img width="80%" src="/Publiced/Financial Express.svg"/></a></div>
+                        <div style={{width:"300px",height:"fit-content" }}><a href="" target="_blank"><img width="80%" src="/Publiced/Gulf Today.svg"/></a></div>
+                    </div>
+                    <div style={{display:"flex",gap:"40px",justifyContent:"center",alignItems:"center",flexDirection:"column",marginTop:"40px"}}>
+                        <div style={{width:"300px",height:"fit-content" }}><a href="" target="_blank"><img width="80%" src="/Publiced/Entrepeneur.svg"/></a></div>
+                        <div style={{width:"300px",height:"fit-content" }}><a href="" target="_blank"><img width="60%" src="/Publiced/Business Insider.svg"/></a></div>
+                    </div>
+            </div>
+            <div className={styles.mobile}>
+                    <div style={{display:"flex",gap:"40px",justifyContent:"center",alignItems:"center",flexDirection:"column",marginTop:"40px"}}>
+                        <div style={{width:"300px",height:"fit-content" }}><a href="" target="_blank"><img width="60%" src="/Publiced/Forbes.svg"/></a></div>
+                        <div style={{width:"300px",height:"fit-content"}}><a href="" target="_blank"><img width="80%" src="/Publiced/Gulf News.svg"/></a></div>
+                    </div>
+                    <div style={{display:"flex",gap:"40px",marginTop:"40px", justifyContent:"center",alignItems:"center"}}>
+                        <div style={{width:"300px",height:"fit-content" }}><a href="" target="_blank"><img width="80%" src="/Publiced/MoneyControl.svg"/></a></div>
+                        {/* <div style={{width:"150px",height:"150px"}}><a href="" target="_blank"><img width="100%" src="/Publiced/MoneyControl.svg"/></a></div> */}
+                    </div>
+            </div>
+
     </div>
 )
 
