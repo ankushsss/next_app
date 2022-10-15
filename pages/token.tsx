@@ -70,7 +70,7 @@ const token = () => {
                   its revenues amongst token holders and encourage early entry
                   into the token because by decreasing the total supply,{" "}
                   <span className={styles.aboutBold}>
-                    every $ARTFI token holder&apos;s percentage of the overall
+                    every ARTFI token holder&apos;s percentage of the overall
                     supply will increase.
                   </span>
                 </Typography>
@@ -78,7 +78,7 @@ const token = () => {
               <div className={styles.burnContainer}>
                 <Typography variant="body" color={"black"}>
                   As the company grows and takes in higher revenue totals each
-                  year, the amount of $ARTFI tokens bought on the open market
+                  year, the amount of ARTFI tokens bought on the open market
                   and burned will increase, all while the token supply
                   diminishes.{" "}
                   <span className={styles.aboutBold}>
