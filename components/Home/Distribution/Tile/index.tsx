@@ -29,7 +29,7 @@ const Tile = ({ src, title, percentage, extraClass,styling }: TileProps) => {
   return (
     <div className={styles.distributionTile} style={styling}>
       <img
-        src={`/images/Distribution/${src}.png`}
+        src={`/images/Distribution/${src}.svg`}
         alt="fundraising"
         className={styles.tileImage}
       />
