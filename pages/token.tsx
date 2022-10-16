@@ -15,8 +15,8 @@ const token = () => {
           <div className={styles.landingTitle}>
               <img className={styles.img} src="/Publiced/Group 18774.svg"/>
           </div>
-          <div className={styles.hed}>
-            The Artfi token (ARTFI) is a revenue sharing utility token. It is
+          <div className={styles.hed} style={{textAlign:"center"}}>
+            The Artfi token (ARTFI) is a revenue sharing utility token.<br/> It is
             an ERC-20 token native to the Polygon blockchain.
           </div>
         </section>
@@ -124,7 +124,7 @@ const token = () => {
           </div>
         </section>
       </div>
-      <Footer></Footer>
+      <Footer/>
     </div>
   );
 };

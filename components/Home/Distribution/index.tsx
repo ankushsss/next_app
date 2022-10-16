@@ -37,7 +37,8 @@ export const Distribution = () => {
             // loader={myLoader}
             src="/Logo/billion.svg"
             alt="billon logo"
-            style={{marginTop:"76px"}}
+            style={{marginTop:"54px"}}
+            width={180}
             // layout="fill"
           />
         {/* <img src="/images/tokenDistribution.png" alt="token" /> */}
