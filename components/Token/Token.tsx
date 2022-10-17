@@ -20,11 +20,11 @@ const AboutSection = () => {
             <div className={styles.aboutText}>
             <br/>
               <p >
-                      The Artfi token will be used for NFT marketplace payments, to reward stakers, and as a deflationary store of value asset designed to appreciate as the company grows and uses its revenues to burn the fixed supply. Artfi’s profitable consignment-based business model is structured to accrue value to the Artfi token.
+                   The Artfi token will be used for NFT marketplace payments, to reward stakers, and as a deflationary store of value asset designed to appreciate as the company grows and uses its revenues to burn the fixed supply. Artfi’s profitable consignment-based business model is structured to accrue value to the Artfi token.
               </p>
               <a href="#distribution">
                 Token Distribution
-                <img src="/Icons/downArrow.svg" alt="" />
+                <img src="/Icons/downArrow.svg"  alt="" />
               </a>
             </div>
           </div>
