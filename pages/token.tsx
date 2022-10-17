@@ -20,7 +20,7 @@ const token = () => {
             an ERC-20 token native to the Polygon blockchain.
           </div>
           <div className={styles.hed2} style={{textAlign:"center"}}>
-            The Artfi token (ARTFI) is a revenue sharing utility token.<br/> It is
+            The Artfi token (ARTFI) is a revenue sharing utility token.It is
             an ERC-20 token native to the Polygon blockchain.
           </div>
         </section>
