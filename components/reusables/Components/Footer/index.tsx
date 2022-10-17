@@ -224,7 +224,7 @@ export const Footer = ({}: FooterProps): JSX.Element => {
             <FaAt color="#FFF" />
             <a href="mailto:hello@artfi.world">hello@artfi.world</a>
           </div>
-          <p className={styles.text}>Sign up for waitlist</p>
+          <p className={styles.text}>Join our Newsletter</p>
 
           <form action="" className={styles.patreon}>
             <div className={styles.left}>
@@ -291,7 +291,7 @@ export const Footer = ({}: FooterProps): JSX.Element => {
             <h1>
                 Thank you for joining our Newsletter!
             </h1>
-            <button >
+            <button onClick={()=>setSendEmail(false)}>
                  Okay
             </button>
           </DialogContentText>
